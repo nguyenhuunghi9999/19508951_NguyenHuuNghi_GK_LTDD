@@ -5,7 +5,7 @@ import { Feather } from '@expo/vector-icons';
 import coffees from "../const/coffee";
 
 const width = Dimensions.get('screen').width/2-30;
-const HomeScreen = () => {
+const HomeScreen = ({navigation}) => {
 
     const Card = ({coffee}) => {
         return (

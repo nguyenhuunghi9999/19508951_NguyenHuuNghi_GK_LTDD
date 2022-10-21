@@ -5,7 +5,7 @@ const coffees = [
       price: '100',
       img: require('../assets/coffee.png'),
       about:
-        'Cacaramel',
+        'Cacaramel is the perfect coffee for cold brew',
     },
   
     {
@@ -14,7 +14,7 @@ const coffees = [
       price: '100',
       img: require('../assets/Caramel.png'),
       about:
-        'Cacaramel-BR',
+      'Cacaramel-BR is the perfect coffee for cold brew',
     },
     {
       id: 3,
@@ -22,7 +22,7 @@ const coffees = [
       price: '100',
       img: require('../assets/coffee.png'),
       about:
-        'Cacaramel',
+      'Cacaramel is the perfect coffee for cold brew',
     },
   
     {
@@ -31,7 +31,7 @@ const coffees = [
       price: '100',
       img: require('../assets/Caramel.png'),
       about:
-        'Cacaramel-BR',
+      'Cacaramel-BR is the perfect coffee for cold brew',
     },
     {
       id: 5,
@@ -39,7 +39,7 @@ const coffees = [
       price: '100',
       img: require('../assets/Caramel.png'),
       about:
-        'Cacaramel-BR',
+      'Cacaramel-BR is the perfect coffee for cold brew',
     },
     {
       id: 6,
@@ -47,7 +47,7 @@ const coffees = [
       price: '100',
       img: require('../assets/coffee.png'),
       about:
-        'Cacaramel',
+      'Cacaramel is the perfect coffee for cold brew',
     },
   ];
   
